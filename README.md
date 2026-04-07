@@ -6,7 +6,7 @@
 
 This document outlines the five project topics available for this hackathon. Each topic focuses on real-world engineering challenges, with an emphasis on practical impact, code quality, and demonstrable results.
 
-## Topic 1: Frontend Beautification & Workflow Showcase + Migrate Report SQL Business Logic to Java
+## Topic 1(Dev workflow): Frontend Beautification & Workflow Showcase + Migrate Report SQL Business Logic to Java
 
 **Objective:** Refactor and modernize an existing project on two complementary fronts — improve frontend visual design while also migrating complex report logic out of SQL and into a more maintainable backend architecture.
 
